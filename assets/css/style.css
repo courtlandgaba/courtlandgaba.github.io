@@ -105,10 +105,13 @@
 .section1top {
     background-image: url('http://subtlepatterns.com/patterns/diagmonds.png');
     height: 50vh;
+    max-height: 50%;
 }
 .section1bottom {
     background-color: #c5c5c5;
     height: 50vh;
+    max-height: 50%;
+
 }
 .intro {
     color: white;
