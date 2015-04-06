@@ -13,34 +13,6 @@
     padding: 0;
 }
 
-/* all slides */
-.title {
-    font-family: 'Oswald', sans-serif;
-    font-size: 50px;
-    text-transform: uppercase;
-    font-weight: 800;
-    letter-spacing: 8px;
-    color: rgb(15, 23, 38);
-    padding: 20px 0;
-}
-.line {
-    width: 60px;
-    border-bottom: 3px solid rgb(199, 50, 38);
-    margin: 0 auto;
-}
-.text-small {
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-    font-weight: 200;
-    color: rgb(126, 135, 143);
-}
-.text-large {
-    font-family: 'Oswald', sans-serif;
-    font-size: 23px;
-    font-weight: 500;
-    color: rgb(126, 135, 143);
-    text-transform: uppercase;
-}
 
 /* nav */
 .linkContainer{
@@ -116,32 +88,52 @@
     filter: invert(40%);
 }
 /* splash 1111*/
-.section1top {
-    background-image: url('http://subtlepatterns.com/patterns/diagmonds.png');
-    height: 50%;
-}
-.section1bottom {
-    background-color: #c5c5c5;
-    height: 50%;
+.section1 {
+    background-color: whitesmoke;
 }
 .intro {
     font-family: 'Oswald', sans-serif;
-    color: white;
+    color: rgb(18, 18, 18);
     font-weight: 600;
     font-size: 85px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: rgba(15,23,38,0.6);
-    position: absolute;
     width: 100%;
     height: 100%;
-    padding: 12% 0 0 5%;
+    padding: 1% 0 0 5%;
 }
 
 
 /* about 2222*/
+.title2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 8px;
+    color: white;
+    padding: 20px 0;
+}
+.line2 {
+    width: 60px;
+    border-bottom: 3px solid white;
+    margin: 0 auto;
+}
+.text-small2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: white;
+}
+.text-large2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(126, 135, 143);
+    text-transform: uppercase;
+}
 .section2 {
-    background-color: rgb(240, 242, 247);
+    background-color: rgb(15, 23, 38);
 }
 .selfie {
     border-radius: 200px;
@@ -149,8 +141,35 @@
 }
 
 /* work 3333*/
-.slide3 {
-    background-color: white;
+.section3 {
+    background-color: rgb(132, 140, 158);
+}
+.title3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 8px;
+    color: white;
+    padding: 20px 0;
+}
+.line3 {
+    width: 60px;
+    border-bottom: 3px solid rgb(199, 50, 38);
+    margin: 0 auto;
+}
+.text-small3 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(126, 135, 143);
+}
+.text-large3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(126, 135, 143);
+    text-transform: uppercase;
 }
 .section3 a{
     font-family: 'Oswald', sans-serif;
@@ -188,8 +207,35 @@
 
 
 /* resume 4444*/
+.line4 {
+    width: 60px;
+    border-bottom: 3px solid white;
+    margin: 0 auto;
+}
+.text-small4 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: white;
+}
+.text-large4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+}
+.title4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 8px;
+    color: white;
+    padding: 20px 0;
+}
 .section4 {
-    background-color: rgb(240, 242, 247);
+    background-color: rgb(199, 50, 38);
 }
 .resumeSpacer {
     padding: 35px 0;
