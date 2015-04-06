@@ -1,0 +1,153 @@
+/* general */
+.noMargin {
+    margin: 0;
+}
+.noPadding {
+    padding:0;
+}
+.centerText {
+    text-align: center;
+}
+
+/* all slides */
+.title {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color: rgb(18,18,18);
+    padding: 20px 0;
+}
+.text-small {
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(10, 17, 31);
+}
+.text-large {
+    font-size: 23px;
+    font-weight: 400;
+    color: rgb(10, 17, 31);
+    text-transform: uppercase;
+}
+
+/* nav */
+.leftBlock {
+    padding: 60px 0;
+}
+
+.leftBlock a {
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    text-decoration:none;
+}
+.block1 {
+    background-color: whitesmoke;
+}
+.block1 a{
+    color: rgb(18,18,18);
+}
+.block2 {
+    background-color: rgb(15, 23, 38);
+}
+.block3 {
+    background-color: rgb(132, 140, 158);
+    color: white;
+}
+.block4 {
+    background-color: rgb(199, 50, 38);
+    color: white;
+}
+.block2 a, .block3 a, .block4 a{
+    color: white;
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+}
+.block2 a:hover, .block3 a:hover, .block4 a:hover{
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.block5 {
+    text-align:center;
+    font-size: 10px;
+    font-weight: 200;
+    color: rgb(199, 50, 38);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgb(244, 244, 244);
+
+}
+
+/* splash */
+.section1top {
+    background-image: url('http://subtlepatterns.com/patterns/diagmonds.png');
+    height: 50vh;
+}
+.section1bottom {
+    background-color: rgb(18,18,18);
+    height: 50vh;
+}
+.intro {
+    color: white;
+    font-weight: 600;
+    font-size: 85px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 10vw 0px 0vw 4vw;
+}
+
+
+/* about */
+.section2 {
+
+}
+.selfie {
+    border-radius: 200px;
+    margin: 30px 0;
+}
+
+
+/* work */
+.section3 a{
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color:black;
+    text-decoration: none;
+}
+.section3 a:hover{
+    text-decoration: underline;
+}
+.work-pic {
+    max-height: 250px;
+}
+.work-button-container {
+    position: absolute;
+    bottom: 0;
+}
+.work-left{
+    background-color: whitesmoke;
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+    padding: 13px;
+}
+.work-right {
+    background-color: whitesmoke;
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+    padding: 13px;
+}
+
+
+/* resume */
+.section4 {
+
+}
+.resumeSpacer {
+    padding: 30px 0;
+}
