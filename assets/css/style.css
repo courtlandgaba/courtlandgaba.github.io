@@ -33,20 +33,20 @@
 }
 .text-large {
     font-size: 23px;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(126, 135, 143);
     text-transform: uppercase;
 }
 
 /* nav */
 .leftBlock {
-    padding: 51px 0;
+    padding: 54px 0;
 }
 
 .leftBlock a {
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 500;
-    letter-spacing: 6px;
+    letter-spacing: 8px;
     text-transform: uppercase;
     text-decoration:none;
 }
