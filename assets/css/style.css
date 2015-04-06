@@ -37,7 +37,7 @@
 
 /* nav */
 .leftBlock {
-    padding: 60px 0;
+    padding: 50px 0;
 }
 
 .leftBlock a {
@@ -78,13 +78,24 @@
     text-align:center;
     font-size: 10px;
     font-weight: 200;
-    color: rgb(18, 18, 18);
+    color: white;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background-color: rgb(244, 244, 244);
-
+    background-color: #b89a73;
 }
-
+.socialContainer {
+    background-color: rgb(244, 244, 244);
+    padding: 25px;
+}
+.socialLink{
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+}
+.socialLink:hover{
+    -webkit-filter: invert(20%);
+    filter: invert(20%);
+}
 /* splash 1111*/
 .section1top {
     background-image: url('http://subtlepatterns.com/patterns/diagmonds.png');
