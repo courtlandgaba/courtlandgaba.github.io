@@ -45,7 +45,6 @@
 }
 .leftBlock {
     height: 16.6666667%;
-    padding: 51px 0;
 }
 
 .leftBlock a {
@@ -56,19 +55,23 @@
     text-decoration:none;
 }
 .block1 {
+    padding-top:20%;
     background-color: whitesmoke;
 }
 .block1 a{
     color: rgb(18,18,18);
 }
 .block2 {
+    padding-top:22%;
     background-color: rgb(15, 23, 38);
 }
 .block3 {
+    padding-top:22%;
     background-color: rgb(132, 140, 158);
     color: white;
 }
 .block4 {
+    padding-top:22%;
     background-color: rgb(199, 50, 38);
     color: white;
 }
@@ -83,6 +86,7 @@
 }
 
 .block5 {
+    padding-top:17%;
     text-align:center;
     font-size: 10px;
     font-weight: 200;
@@ -92,6 +96,7 @@
     background-color: #b89a73;
 }
 .block6 {
+    padding-top:22%;
     background-color: rgb(244, 244, 244);
 }
 .socialLink{
