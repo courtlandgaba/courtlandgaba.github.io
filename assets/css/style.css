@@ -116,14 +116,14 @@
 }
 .line2 {
     width: 60px;
-    border-bottom: 3px solid white;
+    border-bottom: 3px solid #b89a73;
     margin: 0 auto;
 }
 .text-small2 {
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     font-weight: 200;
-    color: white;
+    color: rgb(220, 220, 220);
 }
 .text-large2 {
     font-family: 'Oswald', sans-serif;
@@ -209,14 +209,14 @@
 /* resume 4444*/
 .line4 {
     width: 60px;
-    border-bottom: 3px solid white;
+    border-bottom: 3px solid #b89a73;
     margin: 0 auto;
 }
 .text-small4 {
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     font-weight: 200;
-    color: white;
+    color: rgb(220, 220, 220);
 }
 .text-large4 {
     font-family: 'Oswald', sans-serif;
