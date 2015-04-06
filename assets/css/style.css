@@ -104,12 +104,12 @@
 /* splash 1111*/
 .section1top {
     background-image: url('http://subtlepatterns.com/patterns/diagmonds.png');
-    height: 50vh;
+    height: 50%;
     max-height: 50%;
 }
 .section1bottom {
     background-color: #c5c5c5;
-    height: 50vh;
+    height: 50%;
     max-height: 50%;
 
 }
@@ -128,7 +128,7 @@
 
 
 /* about 2222*/
-.slide2 {
+.section2 {
     background-color: rgb(240, 242, 247);
 }
 .selfie {
@@ -137,6 +137,9 @@
 }
 
 /* work 3333*/
+.slide3 {
+    background-color: white;
+}
 .section3 a{
     font-size: 10px;
     font-weight: 500;
