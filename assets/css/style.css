@@ -12,6 +12,7 @@
     margin: 0;
     padding: 0;
 }
+
 /* all slides */
 .title {
     font-size: 50px;
@@ -39,8 +40,12 @@
 }
 
 /* nav */
+.linkContainer{
+    height: 100vh;
+}
 .leftBlock {
-    padding: 54px 0;
+    height: 16.6666667%;
+    padding: 51px 0;
 }
 
 .leftBlock a {
@@ -86,9 +91,8 @@
     letter-spacing: 2px;
     background-color: #b89a73;
 }
-.socialContainer {
+.block6 {
     background-color: rgb(244, 244, 244);
-    padding: 25px;
 }
 .socialLink{
     transition: all 0.2s ease 0s;
