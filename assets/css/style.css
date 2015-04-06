@@ -91,10 +91,12 @@
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
-}
-.socialLink:hover{
     -webkit-filter: invert(20%);
     filter: invert(20%);
+}
+.socialLink:hover{
+    -webkit-filter: invert(40%);
+    filter: invert(40%);
 }
 /* splash 1111*/
 .section1top {
