@@ -51,20 +51,35 @@
     background-color: rgb(199, 50, 38);
     color: white;
 }
-.block5 {
-    padding-top:22%;
-    background-color: #b89a73;
-    color: white;
-}
-.block2 a, .block3 a, .block4 a, .block5 a{
+.block2 a, .block3 a, .block4 a{
     color: white;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
-.block2 a:hover, .block3 a:hover, .block4 a:hover .block5 a:hover{
+.block2 a:hover, .block3 a:hover, .block4 a:hover{
     color: rgba(255, 255, 255, 0.50);
 }
+
+.block5 {
+    font-family: 'Oswald', sans-serif;
+    padding-top:17%;
+    text-align:center;
+    font-size: 10px;
+    font-weight: 200;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #b89a73;
+}
+.block5 a {
+    font-size: 10px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #144171;
+}
+
 .block6 {
     padding-top:22%;
     background-color: rgb(244, 244, 244);
@@ -172,9 +187,6 @@
     text-transform: uppercase;
     color:rgb(18,18,18);
     text-decoration: none;
-    transition: all 0.2s ease 0s;
-    -moz-transition: all 0.2s ease 0s;
-    -webkit-transition: all 0.2s ease 0s;
 }
 .section3 a:hover{
     text-decoration: underline;
@@ -203,18 +215,6 @@
 
 
 /* resume 4444*/
-.section4 {
-    background-color: rgb(199, 50, 38);
-}
-.title4 {
-    font-family: 'Oswald', sans-serif;
-    font-size: 50px;
-    text-transform: uppercase;
-    font-weight: 800;
-    letter-spacing: 8px;
-    color: white;
-    padding: 20px 0;
-}
 .line4 {
     width: 60px;
     border-bottom: 3px solid #b89a73;
@@ -233,16 +233,7 @@
     color: white;
     text-transform: uppercase;
 }
-
-.resumeSpacer {
-    padding: 35px 0;
-}
-
-/* contact 5555555 */
-.section5 {
-    background-color: #b89a73;
-}
-.title5 {
+.title4 {
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
     text-transform: uppercase;
@@ -251,21 +242,11 @@
     color: white;
     padding: 20px 0;
 }
-.line5 {
-    width: 60px;
-    border-bottom: 3px solid white;
-    margin: 0 auto;
+.section4 {
+    background-color: rgb(199, 50, 38);
 }
-.text-small5 {
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-    font-weight: 200;
-    color: rgb(220, 220, 220);
+.resumeSpacer {
+    padding: 35px 0;
 }
-.text-large5 {
-    font-family: 'Oswald', sans-serif;
-    font-size: 23px;
-    font-weight: 500;
-    color: white;
-    text-transform: uppercase;
-}
+
+/* contact 5555555 */
