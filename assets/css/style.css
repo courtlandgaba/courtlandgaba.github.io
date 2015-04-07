@@ -180,12 +180,14 @@ body {
     letter-spacing: 8px;
     color: rgb(35, 29, 26);
     padding: 20px 0;
-    margin-bottom: 10px;
+    margin-bottom: -10px;
 }
 .line3 {
     width: 60px;
     border-bottom: 3px solid rgb(239, 63, 60);
     margin: 0 auto;
+    margin-bottom: 20px;
+
 }
 .text-small3 {
     font-family: 'Titillium Web', sans-serif;
