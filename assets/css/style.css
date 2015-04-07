@@ -32,18 +32,18 @@
 }
 .block1 {
     padding-top:20%;
-    background-color: rgb(35, 29, 26);
+    background-color: white;
 }
 .block1 a{
-    color: white;
+    color: rgb(35, 29, 26);
 }
 .block2 {
     padding-top:22%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(248, 247, 242);
 }
 .block3 {
     padding-top:22%;
-    background-color: rgb(248, 247, 242);
+    background-color: rgb(245, 242, 235);
     color: white;
 }
 .block4 {
@@ -52,13 +52,13 @@
     color: white;
 }
 .block2 a, .block3 a, .block4 a{
-    color: rgb(18,18,18);
+    color: rgb(33, 27, 25);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 .block2 a:hover, .block3 a:hover, .block4 a:hover{
-    color: rgba(255, 255, 255, 0.50);
+    color: rgba(32, 26, 25, 0.5);
 }
 
 .block5 {
@@ -77,7 +77,10 @@
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #144171;
+    color: rgb(239, 63, 60);
+}
+.block5 a:hover {
+    color: rgba(242, 61, 61, 0.5);
 }
 
 .block6 {
@@ -88,20 +91,20 @@
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
-    -webkit-filter: invert(20%);
-    filter: invert(20%);
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
 }
 .socialLink:hover{
-    -webkit-filter: invert(40%);
-    filter: invert(40%);
+    -webkit-filter: invert(80%);
+    filter: invert(80%);
 }
 /* splash 1111*/
 .section1 {
-    background-color: rgb(35, 29, 26);
+    background-color: white;
 }
 .intro {
     font-family: 'Oswald', sans-serif;
-    color: white;
+    color: rgb(35, 29, 26);
     font-weight: 600;
     font-size: 90px;
     text-transform: uppercase;
@@ -131,7 +134,7 @@
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     font-weight: 200;
-    color: rgb(141, 141, 141);
+    color: rgba(33, 27, 25, 0.7);
 }
 .text-large2 {
     font-family: 'Oswald', sans-serif;
@@ -141,16 +144,23 @@
     text-transform: uppercase;
 }
 .section2 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(248, 247, 242);
 }
 .selfie {
     border-radius: 200px;
     margin: 40px 0 30px;
 }
+.section2 a {
+    color: rgb(239, 63, 60);
+    text-decoration: none;
+}
+.section2 a:hover {
+    color: rgba(242, 61, 61, 0.5);
+}
 
 /* work 3333*/
 .section3 {
-    background-color: rgb(248, 247, 242);
+    background-color: rgb(245, 242, 235);
 }
 .title3 {
     font-family: 'Oswald', sans-serif;
@@ -171,7 +181,7 @@
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     font-weight: 200;
-    color: rgb(126, 135, 143);
+    color: rgba(33, 27, 25, 0.7);
 }
 .text-large3 {
     font-family: 'Oswald', sans-serif;
@@ -230,7 +240,7 @@
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     font-weight: 200;
-    color: rgb(141, 141, 141);
+    color: rgba(33, 27, 25, 0.7);
 }
 .text-large4 {
     font-family: 'Oswald', sans-serif;
@@ -253,6 +263,13 @@
 }
 .resumeSpacer {
     padding: 35px 0;
+}
+.section4 a {
+    color: rgb(239, 63, 60);
+    text-decoration: none;
+}
+.section4 a:hover {
+    color: rgba(242, 61, 61, 0.5);
 }
 
 /* contact 5555555 */
