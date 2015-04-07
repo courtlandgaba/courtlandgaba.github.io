@@ -72,6 +72,14 @@
     letter-spacing: 2px;
     background-color: #b89a73;
 }
+.block5 a {
+    font-size: 10px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #144171;
+}
+
 .block6 {
     padding-top:22%;
     background-color: rgb(244, 244, 244);
