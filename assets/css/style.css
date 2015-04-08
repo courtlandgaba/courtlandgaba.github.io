@@ -6,6 +6,9 @@ body, html {
 a:focus {
     text-decoration: none;
 }
+a:hover {
+    text-decoration: none;
+}
 .noMargin {
     margin: 0;
 }
