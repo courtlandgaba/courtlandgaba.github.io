@@ -39,20 +39,19 @@ a:focus {
     text-transform: uppercase;
     text-decoration: none;
     display: block;
-    color: rgb(33, 27, 25);
+    color: rgba(32, 26, 25, 0.5);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
     height: 16.6666667%;
 }
 li.active a{
-    color: rgba(32, 26, 25, 0.5);
+    color: rgb(33, 27, 25);
     text-decoration: none;
 }
 .block1:hover, .block2:hover, .block3:hover, .block4:hover {
     text-decoration: none;
-    color: rgba(32, 26, 25, 0.5);
-
+    color: rgb(33, 27, 25);
 }
 
 .block1 {
