@@ -246,6 +246,15 @@ body, html {
     border-radius: 0 0 5px 0;
     margin-bottom: 20px;
 }
+.work-one{
+    background-color: white;
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+    padding: 13px;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 20px;
+}
 
 
 /* resume 4444*/
