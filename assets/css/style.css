@@ -54,12 +54,10 @@ body, html {
 .block3 {
     padding-top:22%;
     background-color: rgb(226, 212, 179);
-    color: white;
 }
 .block4 {
     padding-top:22%;
     background-color: #FFFEE7;
-    color: white;
 }
 .block2 a, .block3 a, .block4 a{
     color: rgb(33, 27, 25);
@@ -68,6 +66,12 @@ body, html {
     -webkit-transition: all 0.2s ease 0s;
 }
 .block2 a:hover, .block3 a:hover, .block4 a:hover{
+    color: rgba(32, 26, 25, 0.5);
+}
+.block2 a:active, .block3 a:active, .block4 a:active{
+    color: rgba(32, 26, 25, 0.5);
+}
+.block2 a:focus, .block3 a:focus, .block4 a:focus{
     color: rgba(32, 26, 25, 0.5);
 }
 
@@ -90,6 +94,12 @@ body, html {
     color: rgb(239, 63, 60);
 }
 .block5 a:hover {
+    color: rgba(242, 61, 61, 0.5);
+}
+.block5 a:active {
+    color: rgba(242, 61, 61, 0.5);
+}
+.block5 a:focus {
     color: rgba(242, 61, 61, 0.5);
 }
 
