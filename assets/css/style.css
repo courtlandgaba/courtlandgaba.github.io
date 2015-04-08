@@ -48,6 +48,10 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
     height: 16.6666667%;
 }
+li.active{
+    color: rgb(33, 27, 25);
+    text-decoration: none;
+}
 li.active a{
     color: rgb(33, 27, 25);
     text-decoration: none;
@@ -58,6 +62,7 @@ li.active a{
 }
 
 .block1 {
+    color: rgb(33, 27, 25);
     background-color: white;
     padding: 46px 0 46px;
 }
