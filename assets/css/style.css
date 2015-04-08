@@ -25,51 +25,55 @@ body, html {
 }
 
 /* nav */
-.linkContainer{
+.blockContainer {
     height: 100vh;
 }
 .leftBlock {
-    padding: 50px 0;
-}
-
-.leftBlock a {
     font-family: 'Oswald', sans-serif;
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 8px;
     text-transform: uppercase;
-    text-decoration:none;
-}
-
-.block1 {
-    background-color: white;
-}
-.block2 {
-    background-color: rgb(248, 247, 242);
-}
-.block3 {
-    background-color: rgb(226, 212, 179);
-}
-.block4 {
-    background-color: #FFFEE7;
-}
-.block1 a, .block2 a, .block3 a, .block4 a{
+    text-decoration: none;
+    display: block;
     color: rgb(33, 27, 25);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
+    height: 16.6666667%;
 }
-.block1 a:hover, .block2 a:hover, .block3 a:hover, .block4 a:hover{
+.block1:hover, .block2:hover, .block3:hover, .block4:hover {
     color: rgba(32, 26, 25, 0.5);
+    text-decoration: none;
 }
-.block1 a:active, .block2 a:active, .block3 a:active, .block4 a:active{
+.block1:active, .block2:active, .block3:active, .block4:active {
     color: rgba(32, 26, 25, 0.5);
+    text-decoration: none;
 }
-.block1 a:focus, .block2 a:focus, .block3 a:focus, .block4 a:focus{
+.block1:focus, .block2:focus, .block3:focus, .block4:focus {
     color: rgba(32, 26, 25, 0.5);
+    text-decoration: none;
+}
+
+.block1 {
+    background-color: white;
+    padding-top: 45px;
+}
+.block2 {
+    background-color: rgb(248, 247, 242);
+    padding-top: 52px;
+}
+.block3 {
+    background-color: rgb(226, 212, 179);
+    padding-top: 52px;
+}
+.block4 {
+    background-color: #FFFEE7;
+    padding-top: 52px;
 }
 
 .block5 {
+    padding-top: 48px;
     font-family: 'Oswald', sans-serif;
     text-align:center;
     font-size: 10px;
@@ -91,6 +95,7 @@ body, html {
 }
 
 .block6 {
+    padding-top: 52px;
     background-color: rgb(35, 29, 26);
 }
 .socialLink{
