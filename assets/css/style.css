@@ -1,4 +1,8 @@
 /* general */
+body, html {
+    overflow-x :hidden;
+    max-width: 100%;
+}
 .noMargin {
     margin: 0;
 }
@@ -14,6 +18,10 @@
 }
 .paddingBottom {
     padding-bottom: 40px;
+}
+.row {
+    margin: 0;
+    padding: 0;
 }
 
 /* nav */
