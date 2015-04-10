@@ -67,22 +67,34 @@ a:hover {
     letter-spacing: 6px;
     text-transform: uppercase;
     text-decoration: none;
-    color: #888;
+    color: white;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 li.active{
-    color: white;
+    color: #888;
     text-decoration: none;
 }
 li.active a{
-    color: white;
+    color: #888;
     text-decoration: none;
+}
+li.active .block2{
+    color: black;
+    background-color: white;
+}
+li.active .block3{
+    color: black;
+    background-color: white;
+}
+li.active .block4{
+    color: black;
+    background-color: white;
 }
 .block1:hover, .block2:hover, .block3:hover, .block4:hover {
     text-decoration: none;
-    color: white;
+    color: #888;
 }
 
 .block1 {
@@ -92,15 +104,24 @@ li.active a{
 }
 .block2 {
     background-color: rgb(34, 34, 34);
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
 
 }
 .block3 {
     background-color: rgb(34, 34, 34);
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
 
 }
 .block4 {
     background-color: rgb(34, 34, 34);
     border-bottom: 1px solid rgb(70, 70, 70);
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
 
 }
 
