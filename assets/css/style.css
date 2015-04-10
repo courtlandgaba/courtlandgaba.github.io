@@ -131,10 +131,9 @@ li.active a{
 .block6 {
     background-color: rgb(55, 55, 55);
 }
-.menuB2 {
-    background-color: rgb(55, 55, 55);
-}
+
 .socialLink{
+    margin-top: 10px;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
