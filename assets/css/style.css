@@ -84,7 +84,7 @@ li.active a{
     background-color: white;
 }
 .block2 {
-    background-color: rgb(248, 247, 242);
+    background-color: rgb(240, 238, 231);
 }
 .block3 {
     background-color: rgb(226, 212, 179);
@@ -111,7 +111,7 @@ li.active a{
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgb(239, 63, 60);
+    color: rgb(239, 195, 55);
 }
 .block5 a:hover {
     color: rgba(242, 61, 61, 0.5);
@@ -188,7 +188,7 @@ li.active a{
 }
 .line2 {
     width: 4vw;
-    border-bottom: 2px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 195, 55);
     margin: 0 auto;
 }
 .text-small2 {
@@ -205,14 +205,14 @@ li.active a{
     text-transform: uppercase;
 }
 .section2 {
-    background-color: rgb(248, 247, 242);
+    background-color: rgb(240, 238, 231);
 }
 .selfie {
     border-radius: 200px;
     margin: 40px 0 30px;
 }
 .section2 a {
-    color: rgb(239, 63, 60);
+    color: rgb(239, 195, 55);
     text-decoration: none;
 }
 .section2 a:hover {
@@ -235,7 +235,7 @@ li.active a{
 }
 .line3 {
     width: 60px;
-    border-bottom: 2px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 195, 55);
     margin: 0 auto;
     margin-bottom: 20px;
 
@@ -259,7 +259,7 @@ li.active a{
     font-weight: 500;
     letter-spacing: 6px;
     text-transform: uppercase;
-    color:rgb(239, 63, 60);
+    color:rgb(239, 195, 55);
     text-decoration: none;
 }
 .section3 a:hover{
@@ -275,7 +275,7 @@ li.active a{
     bottom: 0;
 }
 .work-left{
-    background-color: white;
+    background-color: rgb(35, 29, 26);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -284,7 +284,7 @@ li.active a{
     margin-bottom: 20px;
 }
 .work-right {
-    background-color: white;
+    background-color: rgb(35, 29, 26);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -293,7 +293,7 @@ li.active a{
     margin-bottom: 20px;
 }
 .work-one{
-    background-color: white;
+    background-color: rgb(35, 29, 26);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -306,7 +306,7 @@ li.active a{
 /* resume 4444*/
 .line4 {
     width: 60px;
-    border-bottom: 2px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 195, 55);
     margin: 0 auto;
 }
 .text-small4 {
@@ -338,7 +338,7 @@ li.active a{
     padding: 35px 0;
 }
 .section4 a {
-    color: rgb(239, 63, 60);
+    color: rgb(239, 195, 55);
     text-decoration: none;
 }
 .section4 a:hover {
@@ -370,7 +370,7 @@ li.active a{
     padding: 10px 0;
 }
 .m2 {
-    background-color: rgb(248, 247, 242);
+    background-color: rgb(240, 238, 231);
     padding: 10px 0;
 }
 .m3 {
@@ -398,7 +398,7 @@ li.active a{
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgb(239, 63, 60);
+    color: rgb(239, 195, 55);
 }
 .block55 a:hover {
     color: rgba(242, 61, 61, 0.5);
