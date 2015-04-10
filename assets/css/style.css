@@ -68,6 +68,7 @@ a:hover {
     font-weight: 100;
     color: rgb(34, 34, 34);
     text-transform: uppercase;
+    margin-top: -40px;
 }
 .text-large {
     font-family: 'Montserrat', sans-serif;
@@ -242,8 +243,6 @@ a:hover {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 4px;
-    width: 100%;
-    height: 100%;
     padding: 0 0 0 5%;
 }
 
@@ -254,6 +253,15 @@ a:hover {
 }
 
 /* work 3333*/
+.work-block {
+    background: #6F9FA7;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 3px 5px;
+    margin: 3px 2px;
+}
 .section3 a{
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -268,7 +276,7 @@ a:hover {
 
 /* resume 4444*/
 .resumeSpacer {
-    padding: 35px 0;
+    margin-top: 110px;
 }
 
 
