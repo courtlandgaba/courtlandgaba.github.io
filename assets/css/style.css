@@ -1,8 +1,5 @@
 /* general */
-@font-face {
-    font-family: gothic;
-    src: url('./fonts/gothic.ttf');
-}
+
 body, html {
     overflow-x :hidden;
     max-width: 100%;
