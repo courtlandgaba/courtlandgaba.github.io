@@ -166,6 +166,7 @@ a:hover {
 
 .block1 {
     background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     letter-spacing: 25px;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
