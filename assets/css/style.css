@@ -188,7 +188,7 @@ li.active a{
 }
 .line2 {
     width: 4vw;
-    border-bottom: 3px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 63, 60);
     margin: 0 auto;
 }
 .text-small2 {
@@ -235,7 +235,7 @@ li.active a{
 }
 .line3 {
     width: 60px;
-    border-bottom: 3px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 63, 60);
     margin: 0 auto;
     margin-bottom: 20px;
 
@@ -306,7 +306,7 @@ li.active a{
 /* resume 4444*/
 .line4 {
     width: 60px;
-    border-bottom: 3px solid rgb(239, 63, 60);
+    border-bottom: 2px solid rgb(239, 63, 60);
     margin: 0 auto;
 }
 .text-small4 {
