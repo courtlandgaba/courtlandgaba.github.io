@@ -119,22 +119,22 @@ li.active a{
 /* splash 1111*/
 @media (min-width: 0px) and (max-width: 768px) {
   .intro {
-     font-size: 30px;
+     font-size: 38px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
   .intro {
-     font-size: 60px;
+     font-size: 80px;
   }
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .intro {
-     font-size: 60px;
+     font-size: 90px;
   }
 }
 @media (min-width: 1200px){
   .intro {
-     font-size: 90px;
+     font-size: 110px;
   }
 }
 
