@@ -33,15 +33,25 @@ a:hover {
 /* nav */
 .blockContainer {
     height: 100vh;
+    position: relative;
+
 }
 
 .blockContainer li {
-    height: 16.6666667%;
     list-style: none;
-}
-.blockContainer li a {
-    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 16.6666667%;
+    resize: vertical;
 
+}
+.blockContainer .top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    resize: vertical;
 }
 .leftBlock {
     font-family: 'Oswald', sans-serif;
@@ -50,11 +60,11 @@ a:hover {
     letter-spacing: 8px;
     text-transform: uppercase;
     text-decoration: none;
-    display: block;
     color: rgba(32, 26, 25, 0.5);
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
+
 }
 li.active{
     color: rgb(33, 27, 25);
@@ -72,23 +82,18 @@ li.active a{
 .block1 {
     color: rgb(33, 27, 25);
     background-color: white;
-    padding: 24% 0;
 }
 .block2 {
     background-color: rgb(248, 247, 242);
-    padding: 30% 0;
 }
 .block3 {
     background-color: rgb(226, 212, 179);
-    padding: 30% 0;
 }
 .block4 {
     background-color: #FFFEE7;
-    padding: 30% 0;
 }
 
 .block5 {
-    padding: 24% 0;
     font-family: 'Oswald', sans-serif;
     text-align:center;
     font-size: 10px;
@@ -96,6 +101,9 @@ li.active a{
     color: white;
     text-transform: uppercase;
     letter-spacing: 2px;
+    background-color: rgb(55, 47, 44);
+}
+.menuB1 {
     background-color: rgb(55, 47, 44);
 }
 .block5 a {
@@ -110,7 +118,9 @@ li.active a{
 }
 
 .block6 {
-    padding: 28% 0;
+    background-color: rgb(35, 29, 26);
+}
+.menuB2 {
     background-color: rgb(35, 29, 26);
 }
 .socialLink{
