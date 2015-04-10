@@ -46,7 +46,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 14.285%;
+    height: 17.857%;
     resize: vertical;
 }
 #double {
@@ -98,8 +98,8 @@ li.active .block4{
 }
 
 .block1 {
-    background-color: rgb(34, 34, 34);
-    border-bottom: 1px solid rgb(70, 70, 70);
+    background-color: white;
+    border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 .logo {
@@ -109,7 +109,7 @@ li.active .block4{
     letter-spacing: 6px;
     text-transform: uppercase;
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .logo2 {
     font-family: 'Montserrat', sans-serif;
@@ -118,7 +118,7 @@ li.active .block4{
     letter-spacing: 6px;
     text-transform: uppercase;
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .block2 {
     background-color: rgb(34, 34, 34);
@@ -197,7 +197,7 @@ li.active .block4{
 }
 
 .section1 {
-    background-color: #33b3c7;
+    background-color: #6F9FA7;
 }
 .intro {
     font-family: 'Montserrat', sans-serif;
@@ -228,7 +228,7 @@ li.active .block4{
     text-align: center;
 }
 .text-small2 {
-    font-family: 'Asap', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 20px;
     font-weight: 200;
     color: rgb(34, 34, 34);
@@ -269,7 +269,7 @@ li.active .block4{
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 .text-small3 {
-    font-family: 'Asap', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 20px;
     font-weight: 200;
     color: rgb(34, 34, 34);
@@ -333,7 +333,7 @@ li.active .block4{
 
 /* resume 4444*/
 .text-small4 {
-    font-family: 'Asap', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 20px;
     font-weight: 200;
     color: rgb(34, 34, 34);
