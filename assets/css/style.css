@@ -392,6 +392,11 @@ li.active .block4{
     background-color: white;
     padding: 10px 0;
 }
+.m1 a {
+    font-family: 'Playfair Display', serif;
+    font-size: 12px;
+
+}
 .m2 {
     background-color: white;
     padding: 10px 0;
@@ -413,7 +418,7 @@ li.active .block4{
     font-weight: 200;
     color: white;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     background-color: rgb(55, 47, 44);
 }
 .block55 a {
