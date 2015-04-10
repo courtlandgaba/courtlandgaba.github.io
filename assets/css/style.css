@@ -46,8 +46,11 @@ a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 16.6666667%;
+    height: 14.285%;
     resize: vertical;
+}
+#double {
+    height: 28.571%;
 
 }
 .blockContainer .top{
@@ -89,12 +92,10 @@ li.active a{
 }
 .block2 {
     background-color: rgb(34, 34, 34);
-    border-bottom: 1px solid rgb(70, 70, 70);
 
 }
 .block3 {
     background-color: rgb(34, 34, 34);
-    border-bottom: 1px solid rgb(70, 70, 70);
 
 }
 .block4 {
@@ -115,7 +116,6 @@ li.active a{
 }
 .menuB1 {
     background-color: rgb(55, 55, 55);
-    border-bottom: 1px solid rgb(70, 70, 70);
 }
 .block5 a {
     font-size: 10px;
