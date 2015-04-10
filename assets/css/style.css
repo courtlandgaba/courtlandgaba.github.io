@@ -62,8 +62,8 @@ a:hover {
 }
 .leftBlock {
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: 200;
     letter-spacing: 6px;
     text-transform: uppercase;
     text-decoration: none;
@@ -100,7 +100,24 @@ li.active .block4{
 .block1 {
     background-color: rgb(34, 34, 34);
     border-bottom: 1px solid rgb(70, 70, 70);
-
+}
+.logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+.logo2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
 }
 .block2 {
     background-color: rgb(34, 34, 34);
@@ -129,27 +146,13 @@ li.active .block4{
     font-family: 'Montserrat', sans-serif;
     text-align:center;
     font-size: 10px;
-    font-weight: 200;
+    font-weight: 300;
     color: white;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     background-color: rgb(55, 55, 55);
 }
 .menuB1 {
-    background-color: rgb(55, 55, 55);
-}
-.block5 a {
-    font-size: 10px;
-    font-weight: 200;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #F04D4D;
-}
-.block5 a:hover {
-    color: rgba(242, 61, 61, 0.5);
-}
-
-.block6 {
     background-color: rgb(55, 55, 55);
 }
 
