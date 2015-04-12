@@ -198,7 +198,7 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
 }
 .socialLink{
-    margin-top: 10px;
+    margin: 10px 5px 0 5px;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
