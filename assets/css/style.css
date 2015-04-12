@@ -353,14 +353,14 @@ a:hover {
     font-weight: 200;
     color: white;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     background-color: rgb(55, 55, 55);
 }
 .block55 a {
     font-size: 10px;
     font-weight: 200;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 0px;
     color: #6F9FA7;
 }
 .block55 a:hover {
