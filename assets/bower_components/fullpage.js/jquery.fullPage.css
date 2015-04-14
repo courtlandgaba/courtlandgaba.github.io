@@ -1,5 +1,10 @@
-
-html, body {
+html {
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body {
     margin: 0;
     padding: 0;
     overflow:hidden;
@@ -96,7 +101,7 @@ html, body {
 #fp-nav.left {
     left: 17px;
 }
-.fp-slidesNav{
+.fp-slidesNav {
     position: absolute;
     z-index: 4;
     left: 50%;
@@ -137,12 +142,12 @@ html, body {
 #fp-nav ul li a.active span,
 .fp-slidesNav ul li a.active span,
 #fp-nav ul li:hover a.active span,
-.fp-slidesNav ul li:hover a.active span{
+.fp-slidesNav ul li:hover a.active span {
     height: 12px;
     width: 12px;
     margin: -6px 0 0 -6px;
     border-radius: 100%;
- }
+}
 #fp-nav ul li a span,
 .fp-slidesNav ul li a span {
     border-radius: 50%;
@@ -161,7 +166,7 @@ html, body {
     transition: all 0.1s ease-in-out;
 }
 #fp-nav ul li:hover a span,
-.fp-slidesNav ul li:hover a span{
+.fp-slidesNav ul li:hover a span {
     width: 10px;
     height: 10px;
     margin: -5px 0px 0px -5px;
