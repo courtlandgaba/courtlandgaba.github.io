@@ -9,7 +9,7 @@ a:focus {
 a:hover {
     text-decoration: none;
 }
-a:visited {
+#myMenu a:visited {
     color: white;
 }
 .noMargin {
@@ -170,9 +170,7 @@ a:hover {
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
-a:visited {
-    color: white;
-}
+
 
 .block1 {
     background-color: white;
@@ -309,6 +307,9 @@ a:visited {
 /* resume 4444*/
 .resumeSpacer {
     margin-top: 110px;
+}
+.section4 a {
+
 }
 
 
