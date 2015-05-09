@@ -3,6 +3,9 @@ body, html {
     overflow-x :hidden;
     max-width: 100%;
 }
+a {
+    color: #476d70;
+}
 a:focus {
     text-decoration: none;
 }
