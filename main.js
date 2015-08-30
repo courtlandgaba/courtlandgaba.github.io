@@ -7,7 +7,6 @@ $(document).ready(function() {
       });
     }
     paceOptions = {
-      ajax: false,
       restartOnRequestAfter: false
     }
     $('#fullpage').fullpage({
@@ -20,6 +19,5 @@ $(document).ready(function() {
 });
 
 paceOptions = {
-  ajax: false,
   restartOnRequestAfter: false
 }
