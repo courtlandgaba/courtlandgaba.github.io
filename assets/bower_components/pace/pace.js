@@ -13,7 +13,7 @@
     maxProgressPerFrame: 20,
     easeFactor: 1.25,
     startOnPageLoad: true,
-    restartOnPushState: true,
+    restartOnPushState: false,
     restartOnRequestAfter: 500,
     target: 'body',
     elements: {

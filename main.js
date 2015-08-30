@@ -5,12 +5,9 @@ $(document).ready(function() {
       Pace.on('done', function(){
           $('.cover').fadeOut(2000);
       });
-    }
-    paceOptions = {
-      ajax: false, // disabled
-      document: false, // disabled
-      eventLag: false // disabled
-    }
+    };
+    
+
     $('#fullpage').fullpage({
         responsive: 984,
         scrollingSpeed: 600,
@@ -19,9 +16,3 @@ $(document).ready(function() {
 
     });
 });
-
-paceOptions = {
-  ajax: false, // disabled
-  document: false, // disabled
-  eventLag: false // disabled
-}
