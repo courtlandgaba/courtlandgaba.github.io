@@ -5,7 +5,9 @@ $(document).ready(function() {
       Pace.on('done', function(){
           $('.cover').fadeOut(2000);
       });
-
+    }
+    paceOptions = {
+      ajax: false
     }
     $('#fullpage').fullpage({
         responsive: 984,
@@ -15,7 +17,3 @@ $(document).ready(function() {
 
     });
 });
-
-paceOptions = {
-  ajax: false
-}
