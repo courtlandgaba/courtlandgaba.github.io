@@ -8,7 +8,7 @@ $(document).ready(function() {
     }
     paceOptions = {
       ajax: false,
-      restartOnRequestAfter: falses
+      restartOnRequestAfter: false
     }
     $('#fullpage').fullpage({
         responsive: 984,
@@ -21,5 +21,5 @@ $(document).ready(function() {
 
 paceOptions = {
   ajax: false,
-  restartOnRequestAfter: falses
+  restartOnRequestAfter: false
 }
