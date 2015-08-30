@@ -7,7 +7,9 @@ $(document).ready(function() {
       });
     }
     paceOptions = {
-      ajax: false
+      ajax: false,
+      restartOnRequestAfter: false
+
     }
     $('#fullpage').fullpage({
         responsive: 984,
