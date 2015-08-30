@@ -6,8 +6,10 @@ $(document).ready(function() {
           $('.cover').fadeOut(2000);
       });
     }
-    Pace.options = {
-      ajax: false
+    paceOptions = {
+      ajax: false, // disabled
+      document: false, // disabled
+      eventLag: false // disabled
     }
     $('#fullpage').fullpage({
         responsive: 984,
@@ -18,6 +20,8 @@ $(document).ready(function() {
     });
 });
 
-Pace.options = {
-  ajax: false
+paceOptions = {
+  ajax: false, // disabled
+  document: false, // disabled
+  eventLag: false // disabled
 }
