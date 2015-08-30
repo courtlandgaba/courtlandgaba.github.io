@@ -6,7 +6,7 @@ $(document).ready(function() {
           $('.cover').fadeOut(2000);
       });
     }
-    pace.Options = {
+    Pace.options = {
       ajax: false
     }
     $('#fullpage').fullpage({
@@ -18,6 +18,6 @@ $(document).ready(function() {
     });
 });
 
-pace.Options = {
+Pace.options = {
   ajax: false
 }
