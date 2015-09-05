@@ -77,34 +77,33 @@ a:hover {
     padding: 0;
 }
 .title {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
-    text-transform: uppercase;
-    font-weight: 100;
-    letter-spacing: 10px;
-    color: black;
-    text-align: center;
-
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 5px;
+  color: black;
+  text-align: center;
 }
 .sub-title {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
-    font-weight: 100;
-    color: black;
-    text-transform: uppercase;
-    margin-top: -40px;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  color: black;
+  text-transform: uppercase;
+  margin-top: -40px;
 }
 .text-large {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 23px;
     font-weight: 500;
     color: black;
     text-transform: uppercase;
 }
 .text-small {
-    font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
     color: rgb(55, 55, 55);
 }
 a {
@@ -117,7 +116,7 @@ a:hover {
 
 /* nav */
 .logo {
-    font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
     font-size: 40px;
     font-weight: 800;
     letter-spacing: 6px;
@@ -126,7 +125,7 @@ a:hover {
     color: black;
 }
 .logo2 {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 10px;
     font-weight: 800;
     letter-spacing: 6px;
@@ -155,10 +154,10 @@ a:hover {
 
 }
 .leftBlockTop {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 13px;
-    font-weight: 200;
-    letter-spacing: 6px;
+    font-weight: 300;
+    letter-spacing: 5px;
     text-transform: uppercase;
     text-decoration: none;
     color: white;
@@ -172,10 +171,10 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
 }
 .leftBlockBottom {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 10px;
-    font-weight: 200;
-    letter-spacing: 1px;
+    font-weight: 400;
+    letter-spacing: 2px;
     text-transform: uppercase;
     text-decoration: none;
     color: white;
@@ -263,9 +262,9 @@ a:hover {
 }
 
 .intro {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     color: white;
-    font-weight: 100;
+    font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 4px;
     padding: 0 0 0 5%;
@@ -281,18 +280,18 @@ a:hover {
 .work-block {
     background: black;
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     display: inline-block;
     padding: 3px 5px;
     margin: 3px 2px;
 }
 .section3 a{
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 15px;
     color: black;
-    font-weight: 300;
-    letter-spacing: 6px;
+    font-weight: 600;
+    letter-spacing: 2px;
     text-transform: uppercase;
     margin: 0 15px;
 }
@@ -341,7 +340,7 @@ a:hover {
     z-index: 100;
 }
 .mobileNav a {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
     font-size: 10px;
     font-weight: 500;
     letter-spacing: 3px;
@@ -358,7 +357,7 @@ a:hover {
     padding: 10px 0;
 }
 .m1 a {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lato', sans-serif;
     font-size: 12px;
 
 }
@@ -376,7 +375,7 @@ a:hover {
 }
 /* mobileBottom */
 .block55 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     padding: 20px;
     text-align:center;
     font-size: 10px;
