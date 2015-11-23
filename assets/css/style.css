@@ -72,6 +72,9 @@ a:hover {
     background-color: whitesmoke;
 }
 
+.max {
+  height: 100vh !important;
+}
 .divide {
   padding-bottom: 50px;
   border-bottom: 1px solid grey;
