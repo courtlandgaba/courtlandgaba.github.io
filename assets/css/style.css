@@ -55,6 +55,10 @@ a:hover {
 
 
 /* background Colors */
+.section {
+  border-bottom: 1px solid grey;
+  padding: 100px 0;
+}
 .section1 {
     background-color: #010101;
 }
@@ -68,9 +72,17 @@ a:hover {
     background-color: whitesmoke;
 }
 
+.divide {
+  padding-bottom: 50px;
+  border-bottom: 1px solid grey;
+}
+.project {
+  margin: 100px 0;
+}
 
-
-
+.work-links {
+  margin: 5px 0;
+}
 /* allslides */
 .slide {
     margin: 0;
@@ -135,7 +147,8 @@ a:hover {
 }
 .myMenu {
     height: 100vh;
-    position: relative;
+    position: fixed;
+    width: 17%;
 }
 .myMenu li {
     list-style: none;
@@ -169,6 +182,11 @@ a:hover {
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
+}
+
+.leftBlockTop:hover {
+  background-color: whitesmoke;
+  color:black;
 }
 .leftBlockBottom {
   font-family: 'Lato', sans-serif;

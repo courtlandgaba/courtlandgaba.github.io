@@ -6,13 +6,16 @@ $(document).ready(function() {
           $('.cover').fadeOut(2000);
       });
     };
-    
+
 
     $('#fullpage').fullpage({
         responsive: 984,
-        scrollingSpeed: 600,
         menu: '.myMenu',
         anchors: ['home', 'about', 'work', 'resume'],
+        autoScrolling: false,
+        fitToSection: false,
+        lockAnchors: false,
+
 
     });
 });
