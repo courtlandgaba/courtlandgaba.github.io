@@ -13,9 +13,9 @@ $(document).ready(function() {
         menu: '.myMenu',
         anchors: ['home', 'about', 'work', 'resume'],
         autoScrolling: false,
+        paddingTop: '5em',
         fitToSection: false,
-        lockAnchors: false,
-
+        scrollOverflow: true,
 
     });
 });
