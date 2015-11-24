@@ -20,7 +20,7 @@ body, html {
     max-width: 100%;
 }
 a {
-    color: rgb(136, 72, 72);
+  color: #647E9E;
 }
 a:focus {
     text-decoration: none;
@@ -59,7 +59,7 @@ a:hover {
   border-bottom: 1px solid grey;
 }
 .section1 {
-    background-color: #010101;
+    background-color: #333333;
 }
 .section2 {
     background-color: whitesmoke;
@@ -96,22 +96,23 @@ a:hover {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 5px;
-  color: black;
+  color: #333333;
   text-align: center;
 }
 .sub-title {
   font-family: 'Lato', sans-serif;
   font-size: 25px;
   font-weight: 300;
-  color: black;
+  color: #333333;
   text-transform: uppercase;
-  margin-top: -40px;
+  text-align: center;
+
 }
 .text-large {
   font-family: 'Lato', sans-serif;
     font-size: 23px;
     font-weight: 500;
-    color: black;
+    color: #333333;
     text-transform: uppercase;
 }
 .text-small {
@@ -121,18 +122,18 @@ a:hover {
     color: rgb(55, 55, 55);
 }
 a {
-    color: 324C50;
+    color: #647E9E;
     text-decoration: none;
 }
 a:hover {
-    color: rgba(113, 164, 169, 0.5);
+    color: rgba(#647e9e, 0.5);
 }
 
 /* nav */
 .logo {
   font-family: 'Lato', sans-serif;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 500;
     letter-spacing: 6px;
     text-transform: uppercase;
     text-decoration: none;
@@ -164,7 +165,7 @@ a:hover {
     height: 28.571%;
 }
 .active .leftBlockTop {
-    color: black;
+    color: #333333;
     background-color: whitesmoke;
 
 }
@@ -188,7 +189,7 @@ a:hover {
 
 .leftBlockTop:hover {
   background-color: whitesmoke;
-  color:black;
+  color:#333333;
 }
 .leftBlockBottom {
   font-family: 'Lato', sans-serif;
@@ -236,7 +237,7 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
 }
 .block5 {
-    background-color: black;
+    background-color: #333333;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -298,7 +299,7 @@ a:hover {
 
 /* work 3333*/
 .work-block {
-    background: black;
+    background: #333333;
     color: white;
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
@@ -309,7 +310,7 @@ a:hover {
 .section3 a{
   font-family: 'Lato', sans-serif;
     font-size: 15px;
-    color: black;
+    color: #333333;
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -317,7 +318,7 @@ a:hover {
 }
 .section3 a:hover{
     text-decoration: underline;
-    color: rgb(136, 72, 72);
+    color: rgb(56, 56, 56);
 }
 
 @media (min-width: 0px) and (max-width: 768px) {
@@ -353,7 +354,7 @@ a:hover {
 
 /* mobileNav */
 .mobileNav {
-    background-color: black;
+    background-color: #333333;
     width: 100%;
     text-align: center;
     position: fixed;
@@ -369,7 +370,7 @@ a:hover {
     color: #647E9E;
 }
 .mobileNav a:hover: {
-    color: rgba(33, 27, 25, 0.5);
+    color: rgb(56, 56, 56);
 
 }
 .m1 {
