@@ -15,7 +15,5 @@ $(document).ready(function() {
         autoScrolling: false,
         paddingTop: '5em',
         fitToSection: false,
-        scrollOverflow: true,
-
     });
 });
