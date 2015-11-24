@@ -340,6 +340,15 @@ a:hover {
   .work-block {
       font-size: 13px;
   }
+  .intro {
+    font-weight: 300;
+  }
+  .text-small {
+    font-weight: 400;
+  }
+  .sub-title {
+    font-weight: 400;
+  }
 }
 
 /* resume 4444*/
@@ -362,7 +371,7 @@ a:hover {
 }
 .mobileNav a {
   font-family: 'Lato', sans-serif;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 500;
     letter-spacing: 3px;
     text-transform: uppercase;
