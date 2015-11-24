@@ -14,6 +14,7 @@ $(document).ready(function() {
         anchors: ['home', 'about', 'work', 'resume'],
         autoScrolling: false,
         paddingTop: '5em',
+        paddingBottom: '5em',
         fitToSection: false,
         verticalCentered: true,
     });
