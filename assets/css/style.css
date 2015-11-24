@@ -79,7 +79,7 @@ a:hover {
   border-bottom: 1px solid grey;
 }
 .project {
-  margin: 100px 0;
+  margin: 50px 0 0px 0;
 }
 
 .work-links {
@@ -258,7 +258,7 @@ a:hover {
 /* splash 1111*/
 @media (min-width: 0px) and (max-width: 768px) {
   .intro {
-     font-size: 25px;
+     font-size: 30px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
@@ -367,10 +367,10 @@ a:hover {
     letter-spacing: 3px;
     text-transform: uppercase;
     text-decoration:none;
-    color: #647E9E;
+    color: #333333;
 }
 .mobileNav a:hover: {
-    color: rgb(56, 56, 56);
+    color: rgba(#333333, 0.50);
 
 }
 .m1 {
@@ -400,10 +400,10 @@ a:hover {
     padding: 20px;
     text-align:center;
     font-size: 10px;
-    font-weight: 200;
+    font-weight: 400;
     color: white;
     text-transform: uppercase;
-    letter-spacing: 0px;
+    letter-spacing: 1px;
     background-color: rgb(55, 55, 55);
 }
 .block55 a {
