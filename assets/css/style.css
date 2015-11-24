@@ -20,7 +20,7 @@ body, html {
     max-width: 100%;
 }
 a {
-  color: #647E9E;
+  color: #7A8DA5;
 }
 a:focus {
     text-decoration: none;
@@ -122,11 +122,11 @@ a:hover {
     color: rgb(55, 55, 55);
 }
 a {
-    color: #647E9E;
+    color: #7A8DA5;
     text-decoration: none;
 }
 a:hover {
-    color: rgba(#647e9e, 0.5);
+    color: rgba(#7A8DA5, 0.5);
 }
 
 /* nav */
@@ -219,19 +219,19 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
 }
 .block2 {
-    background-color: #647E9E;
+    background-color: #7A8DA5;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 .block3 {
-    background-color: #647E9E;
+    background-color: #7A8DA5;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 .block4 {
-    background-color: #647E9E;
+    background-color: #7A8DA5;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -427,6 +427,6 @@ a:hover {
 }
 .block66 {
     padding: 20px;
-    background-color: #647E9E;
+    background-color: #7A8DA5;
     text-align: center;
 }
