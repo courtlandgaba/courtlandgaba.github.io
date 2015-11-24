@@ -218,19 +218,19 @@ a:hover {
     -webkit-transition: all 0.2s ease 0s;
 }
 .block2 {
-    background-color: rgb(41, 0, 0);
+    background-color: #647E9E;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 .block3 {
-    background-color: rgb(41, 0, 0);
+    background-color: #647E9E;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
 }
 .block4 {
-    background-color: rgb(41, 0, 0);
+    background-color: #647E9E;
     transition: all 0.2s ease 0s;
     -moz-transition: all 0.2s ease 0s;
     -webkit-transition: all 0.2s ease 0s;
@@ -366,7 +366,7 @@ a:hover {
     letter-spacing: 3px;
     text-transform: uppercase;
     text-decoration:none;
-    color: rgb(41, 0, 0);
+    color: #647E9E;
 }
 .mobileNav a:hover: {
     color: rgba(33, 27, 25, 0.5);
@@ -417,6 +417,6 @@ a:hover {
 }
 .block66 {
     padding: 20px;
-    background-color: rgb(41, 0, 0);
+    background-color: #647E9E;
     text-align: center;
 }
